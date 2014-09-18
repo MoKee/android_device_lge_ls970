@@ -4,15 +4,15 @@
    "target_path": "vendor/lge/e975"
  },
  {
+   "repository": "android_vendor_lge_ls970",
+   "target_path": "vendor/lge/ls970"
+ },
+ {
    "repository": "android_kernel_lge_gproj",
    "target_path": "kernel/lge/gproj"
  },
  {
    "repository": "android_device_lge_ls970-common",
    "target_path": "device/lge/ls970-common"
- },
- {
-   "repository": "android_device_lge_gproj-common",
-   "target_path": "device/lge/gproj-common"
  }
 ]

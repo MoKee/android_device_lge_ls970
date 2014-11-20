@@ -1,5 +1,9 @@
 [
  {
+   "repository": "android_vendor_lge_e975",
+   "target_path": "vendor/lge/e975"
+ },
+ {
    "repository": "android_vendor_lge_ls970",
    "target_path": "vendor/lge/ls970"
  },
